@@ -1,0 +1,15 @@
+.container {
+	width:800px;
+    margin: 0 auto;;
+}
+h1 {
+	text-align: center;
+}
+body {
+	height: 200px;
+    background: linear-gradient(to right, #FFDDD6 20%, #FFF9ED 20%, #FFF9ED 80%, #DBDBDB 80%);
+}
+h2 {
+    text-align: center;
+}
+
